@@ -46,6 +46,7 @@ public class Profile {
             newArr[i] = fields[i];
         }
         newArr[n] = field;
+        fields = newArr;
     }
 
     public boolean hasField(String fieldName){
