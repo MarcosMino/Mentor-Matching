@@ -1,4 +1,4 @@
-package com.company;
+package com.example.mentormatching.model;
 
 public class Account {
     private String email;
